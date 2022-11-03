@@ -1,0 +1,61 @@
+* {
+    font-family: Outfit;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.border1 {
+
+    background-color: white;
+    border: 1px solid black;
+    margin: 100px auto 100px auto;
+    width: 250px;
+    height: 390px;
+    border-radius: 5%;
+    border-color: white;
+}
+
+
+
+.qrcode img {
+    width: 220px;
+    height: auto;
+    margin: 14px auto;
+    border-radius: 5%;
+    display: block;
+
+}
+
+
+h4 {
+    margin: 0;
+    text-align: center;
+
+}
+
+
+.qrtext1 {
+
+    color: rgba(0, 0, 0, 0.779);
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    margin: 5px auto 5px auto;
+    width: 210px;
+    height: 50px;
+
+}
+
+.qrtext2 {
+    margin: 5px auto 5px auto;
+    font-size: 12px;
+    font-weight: 100;
+    text-align: center;
+    width: 210px;
+    height: 50px;
+
+}
